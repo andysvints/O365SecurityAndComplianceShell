@@ -6,10 +6,10 @@ Copy and Paste the following command to install this package using PowerShellGet
 ```powershell
 Install-Module -Name ExchangeOnlineShell 
 ```
-##Functions
+# Functions
 ```powershell
 Connect-O365SecurityAndComplianceShell 
 Disconnect-O365SecurityAndComplianceShell
 ```
-##Dependencies
+# Dependencies
 This module has no dependencies.
